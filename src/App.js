@@ -10,7 +10,7 @@ function App() {
 				<img src={image} alt="shopping" width="250px"/>
 			</div>
 			<div className="center">
-				<h1>Grosery list</h1>
+				<h1>Grocery list</h1>
 			</div>
 			<GroseryList />
 			<div className="center">				
